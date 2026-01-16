@@ -1,0 +1,25 @@
+
+> @transit/driver-app@0.0.1 dev
+> next dev -p 3000
+
+- ready started server on 0.0.0.0:3000, url: http://localhost:3000
+- [36minfo[39m Loaded env from C:\Users\karth\OneDrive\Desktop\Sachiin\Sachiin\apps\driver\.env.local
+[35m[1mAttention[22m[39m: Next.js now collects completely anonymous telemetry regarding usage.
+This information is used to shape Next.js' roadmap and prioritize features.
+You can learn more, including how to opt-out if you'd not like to participate in this anonymous program, by visiting the following URL:
+[36mhttps://nextjs.org/telemetry[39m
+
+npm error code ENOWORKSPACES
+npm error This command does not support workspaces.
+npm error A complete log of this run can be found in: C:\Users\karth\AppData\Local\npm-cache\_logs\2026-01-13T22_15_27_350Z-debug-0.log
+- [35mevent[39m compiled client and server successfully in 306 ms (18 modules)
+- [36mwait[39m compiling...
+- [35mevent[39m compiled client and server successfully in 211 ms (18 modules)
+(node:5828) [DEP0060] DeprecationWarning: The `util._extend` API is deprecated. Please use Object.assign() instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+- [36mwait[39m compiling / (client and server)...
+- [35mevent[39m compiled client and server successfully in 2.8s (203 modules)
+Do not add stylesheets using next/head (see <link rel="stylesheet"> tag with href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap"). Use Document instead. 
+See more info here: https://nextjs.org/docs/messages/no-stylesheets-in-head-component
+- [36mwait[39m compiling /auth/signin...
+- [35mevent[39m compiled client and server successfully in 1446 ms (633 modules)
